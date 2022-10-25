@@ -1,20 +1,20 @@
 [
     {
         "catagory_id": "6357f0ceaf523537ee66271c",
-        "course_id": "6357f0cee7d72dd1ab0e5758",
+        "course_id": 1,
         "hours": "35",
         "price": "79",
         "topic1": "Set up test automation framework with Selenium WebDriver",
         "topic2": "Automate your first Selenium WebDriver test",
         "topic3": "Make accurate predictions",
-        "title": "Learn basics of Java for testers",
+        "title": "Automation Testing",
         "Instructor": "Hays Klein",
         "description": "Become an automation expert by learning Java, Selenium, Cucumber, Junit, Docker and other technologies!",
         "picture": "https://www.cumanagement.com/sites/default/files/2019-07/marketing-email-automation.png"
     },
     {
         "catagory_id": "6357f0ce0bd76a3eb1681b0e",
-        "course_id": "6357f0ce58dad1c58e45fc91",
+        "course_id": 2,
         "hours": "40",
         "price": "49",
         "topic1": "Master Machine Learning on Python & R",
@@ -27,7 +27,7 @@
     },
     {
         "catagory_id": "6357f0cead623b73e2012d04",
-        "course_id": "6357f0ceb34b73c7c5b4bdd2",
+        "course_id": 3,
         "hours": "100",
         "price": "69",
         "topic1": "Analyze user behavior",
@@ -40,7 +40,7 @@
     },
     {
         "catagory_id": "6357f0cea9b5b974ba1cb8b8",
-        "course_id": "6357f0ce166d44261f7e52ca",
+        "course_id": 4,
         "hours": "90",
         "price": "29",
         "topic1": "Artificial Neural Networks (ANNs) / Deep Neural Networks (DNNs)",
@@ -53,7 +53,7 @@
     },
     {
         "catagory_id": "6357f0cee766d07a749fb738",
-        "course_id": "6357f0ce394ffeffc55fb8ad",
+        "course_id": 5,
         "hours": "45",
         "price": "99",
         "topic1": "Build an AI",
@@ -66,7 +66,7 @@
     },
     {
         "catagory_id": "6357f0ce25bd4c5c9c2a716e",
-        "course_id": "6357f0cead5ccf7419bee53c",
+        "course_id": 6,
         "hours": "70",
         "price": "89",
         "topic1": "Understand the basics of probability",
