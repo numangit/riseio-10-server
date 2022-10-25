@@ -2,49 +2,49 @@
     {
         "catagory_id": "6357f0ceaf523537ee66271c",
         "course_id": "6357f0cee7d72dd1ab0e5758",
-        "title": "Mullen Sawyer",
+        "title": "Automation Testing",
         "Instructor": "Hays Klein",
-        "description": 0,
-        "picture": "http://placehold.it/32x32"
+        "description": "Become an automation expert by learning Java, Selenium, Cucumber, Junit, Docker and other technologies!",
+        "picture": "https://www.cumanagement.com/sites/default/files/2019-07/marketing-email-automation.png"
     },
     {
         "catagory_id": "6357f0ce0bd76a3eb1681b0e",
         "course_id": "6357f0ce58dad1c58e45fc91",
-        "title": "Robyn Shaw",
+        "title": "Machine Learning",
         "Instructor": "Walters Norton",
-        "description": 1,
-        "picture": "http://placehold.it/32x32"
+        "description": "Complete hands-on machine learning tutorial with data science, Tensorflow, artificial intelligence, and neural networks",
+        "picture": "https://innovationatwork.ieee.org/wp-content/uploads/2021/01/bigstock-Machine-Learning-Artificial-I-311340295_1024X684.png"
     },
     {
         "catagory_id": "6357f0cead623b73e2012d04",
         "course_id": "6357f0ceb34b73c7c5b4bdd2",
-        "title": "Jody Hunt",
+        "title": "Data Analysis",
         "Instructor": "Carr Sears",
-        "description": 2,
-        "picture": "http://placehold.it/32x32"
+        "description": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+        "picture": "https://img.freepik.com/free-vector/data-analysis-concept-illustration_114360-8053.jpg?w=2000"
     },
     {
         "catagory_id": "6357f0cea9b5b974ba1cb8b8",
         "course_id": "6357f0ce166d44261f7e52ca",
-        "title": "Ines Jacobson",
+        "title": "Deep Learning",
         "Instructor": "Iva Velazquez",
-        "description": 3,
-        "picture": "http://placehold.it/32x32"
+        "description": "The Complete Guide to Mastering Artificial Intelligence using Deep Learning and Neural Networks",
+        "picture": "https://img.freepik.com/free-vector/tiny-scientists-developing-ai-using-machine-learning-brain-computing-data-flat-vector-illustration-artificial-intelligence-technology-science-concept-banner-website-design-landing-web-page_74855-22578.jpg?w=2000"
     },
     {
         "catagory_id": "6357f0cee766d07a749fb738",
         "course_id": "6357f0ce394ffeffc55fb8ad",
-        "title": "Dionne Hull",
+        "title": "Artificial Intelligence",
         "Instructor": "Parrish Page",
-        "description": 4,
-        "picture": "http://placehold.it/32x32"
+        "description": "A breathtaking course in 2022 that teaches new-age Artificial Intelligence (AI) Technologies and Tools.",
+        "picture": "https://img.freepik.com/free-vector/artificial-intelligence-template-landing-page_23-2148331041.jpg?w=2000"
     },
     {
         "catagory_id": "6357f0ce25bd4c5c9c2a716e",
         "course_id": "6357f0cead5ccf7419bee53c",
-        "title": "Anne Sosa",
+        "title": "Statistics",
         "Instructor": "Henry Mathis",
-        "description": 5,
-        "picture": "http://placehold.it/32x32"
+        "description": "Statistics you need in the office: Descriptive & Inferential statistics, Hypothesis testing, Regression analysis.",
+        "picture": "http://placehold.it/32x32https://img.freepik.com/premium-vector/business-statistics-illustration_124046-162.jpg?w=2000"
     }
 ]
